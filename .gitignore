@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+
+# Temp / output / 临时输出与产物
+*.tmp
+__gifmaker_raw_*.gif
+*.log
+
+# Large files / test media / 大文件与测试素材
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.webm
+*.flv
+*.wmv
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
